@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: [SNIA日本支部ユースケース分科会]
+github:
+   is_project_page: false
+
