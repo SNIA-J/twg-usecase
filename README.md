@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## SNIA日本支部ユースケース分科会
+### ユースケース分科会について
 
-You can use the [editor on GitHub](https://github.com/SNIA-J/twg-usecase/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[SNIA日本支部](https://www.snia-j.org/)は、これまで多くのストレージベンダーに⽀えられ活動してきました。
+⼀⽅で、ストレージの利⽤者や運⽤者の⽅々が技術交流を⾏う場が不⾜していました。  
+そこで、利⽤者や運⽤者の⽅々がストレージのユースケースや運⽤⽅法について意⾒交換・議論を行える場としてユースケース分科会を2021年7月に発足しました。
+また、ストレージベンダーより新たな運⽤⽅法をご紹介頂き、分科会に参加の利⽤者・運⽤者の⽅々と意⾒交換が⾏える場としても有効活⽤を考えています。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 活動内容
 
-### Markdown
+- 月1回の定例分科会 (第1水曜日 16:00-18:00、Zoomにてリモート開催※)
+  - これまでの議論テーマ一覧
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+|開催日 | テーマ |
+:----------|:--------|
+| 2021/9/1 |  - AAAAサービス紹介 (BBBBB@CCCC株式会社) <br> - DDDサービス紹介 (EEEEE@株式会社FFFFFF)   |
+| 2021/7/16 | キックオフ |
 
-```markdown
-Syntax highlighted code block
+※ 都合により開催日は変更する場合があります。
 
-# Header 1
-## Header 2
-### Header 3
+### 運営体制 (2022年度)
 
-- Bulleted
-- List
+#### 会長 (Co-Chair)
 
-1. Numbered
-2. List
+- hoge
+  - aaa
+- aaa
 
-**Bold** and _Italic_ and `Code` text
+#### 副会長 
+- bbb
+- ccc
 
-[Link](url) and ![Image](src)
-```
+### 参加方法
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SNIA-J/twg-usecase/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+本分科会へ参加をご希望される方は[SNIA日本支部: 入会案内](https://www.snia-j.org/about/join/)をご参照のうえ、SNIA日本支部事務局(office@snia-j.org) までご連絡ください。
