@@ -69,18 +69,16 @@
 #### 会長 (Co-Chair)
 
 - 菊地 孝浩
-  - 株式会社インターネットイニシアティブ クラウド本部 技術開発室 シニアエンジニア
+  - 株式会社インターネットイニシアティブ ネットワークサービス事業本部 クラウド本部 技術開発室 シニアエンジニア
 - 沼田 晃希
   - LINE ヤフー株式会社 SIグループ クラウド統括本部 Cloud Infrastructure本部 Storage部 Storage Opsチーム リーダー
 
 #### 副会長
 
-- 坂下 幸徳 (博士)
-  -  LINE ヤフー株式会社
-  - [SNIA Technical Council Advisor](https://www.snia.org/about/organization/tech_council)
-  - SNIA日本支部 副会長, 技術委員会 副委員長
-- 吉田 浩
-  - 国立情報学研究所 クラウド基盤研究開発センター 特任教授
+- 大石 桐吾
+  - 日本電気株式会社 クラウド戦略統括部 シニアプロフェッショナル
+- 上原 勇太郎
+  - Dell Technologies Principal Engineer, Online/Social Media Marketing
 
 ### 参加方法
 
