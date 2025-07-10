@@ -80,7 +80,7 @@
 - 大石 桐吾
   - 日本電気株式会社 クラウド戦略統括部 シニアプロフェッショナル
 - 上原 勇太郎
-  - Dell Technologies Principal Engineer, Online/Social Media Marketing
+  - デル・テクノロジーズ株式会社 Principal Engineer, Online/Social Media Marketing
 
 ### 参加方法
 
